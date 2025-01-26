@@ -1,0 +1,10 @@
+body {
+    padding: 40px;
+    max-width: 800px;
+    margin: auto;
+}
+
+.message {
+    background-color: #374231;
+    text-align: center;
+}
